@@ -122,19 +122,19 @@ MX_TIM2_Init();
 
 
 FOR PULSE AT 500
-
+```
   TON  = 2ms
   TOFF = 2ms
   TOTAL TIME = 4 
   FREQUENCY = 1/(TOTAL TIME)
             = 1/(410^-3)
             = 250Hz
-
+```
 FOR PULSE AT 700
 
 ![image](https://github.com/Jayabharathi3/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/120367796/a0b73a7e-7bcb-48a9-9107-d8b6ffdff36d)
 
-
+```
 TON  = 2.17ms
 TOFF = 0.93ms
 TOTAL TIME = 3.1 
@@ -142,12 +142,12 @@ FREQUENCY = 1/(TOTAL TIME)
           = 1/(3.110^-3)
           = 322.58Hz
 
-
+```
 FOR PULSE AT 900
 
 ![image](https://github.com/Jayabharathi3/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/120367796/075ee7ad-612e-4cc0-9c5d-fc0546077669)
 
-
+```
 TON  = 2.88ms
 TOFF = 0.32ms
 TOTAL TIME = 3.2 
@@ -155,7 +155,7 @@ FREQUENCY = 1/(TOTAL TIME)
           = 1/(3.210^-30
           = 312.5Hz
 
-
+```
 ## Result :
 A PWM Signal is generated using the following frequency and various duty cycles are simulated 
 
